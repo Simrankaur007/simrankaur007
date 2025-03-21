@@ -1,5 +1,3 @@
-![Header Image](https://your-image-link.com)
-
 # 👋 Hi, I'm Simran!
 
 🚀 **Aspiring Data Analyst** | 📊 Excel | 🗄️ SQL | 📈 Power BI | 🐍 Python 
